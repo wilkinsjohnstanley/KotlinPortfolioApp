@@ -119,11 +119,11 @@ fun HomeScreen() {
             style = MaterialTheme.typography.titleLarge,
             fontWeight = FontWeight.Bold
         )
-        Text("Phone: (228) 286-3345")
-        Text("Email: wilkinsjohnstanley@gmail.com")
-        Text("LinkedIn: linkedin.com/in/wilkinsjohnstanley")
-        Text("GitHub: github.com/wilkinsjohnstanley")
-        Text("YouTube: youtube.com/@John-Wilkins")
+        Text("Phone: (xxx) xxx-xxxx")
+        Text("Email: xxxxxxxxxxxxxxxxxxxxx@gmail.com")
+        Text("LinkedIn: linkedin.com/in/xxxxxxxxxxxxxxxxxxxx")
+        Text("GitHub: github.com/xxxxxxxxxxxxxxxxx")
+        Text("YouTube: youtube.com/@xxxxxxxxxxxxx")
     }
 }
 
